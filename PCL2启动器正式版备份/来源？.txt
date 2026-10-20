@@ -1,0 +1,5 @@
+https://github.com/Meloong-Git/PCL
+PCL2的仓库里面根目录有一个“最新正式版.zip”文件，现成的编译好的，从历史记录里面找一下就能找到2.14.0.0了：
+https://github.com/Meloong-Git/PCL/blob/5ef81e490ae46b1100d61e33d0183094c7a80ca8/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip
+
+为了防止以后出问题，我也不管什么违反协议的复杂的事情放这里一个了，千万别给我寄传票(
